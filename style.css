@@ -5399,6 +5399,10 @@ p {
   color: #fff;
 }
 
+h1 span {
+  color:#FFF;
+}
+
 button {
   background: #fff;
   border: none;
